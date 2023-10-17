@@ -3,7 +3,7 @@
     "background_color": "#9b9b9b",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "index.html",
     "name": "Reportes PWA",
     "description": "hOLA MUNDO",
     "short_name": "rpwa",
